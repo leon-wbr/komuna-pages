@@ -1,0 +1,13 @@
+{
+  "name": "Nestr — decentralized hospitality",
+  "short_name": "Nestr",
+  "description": "Privacy-first, decentralized hospitality exchange built on Nostr.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f7f5",
+  "theme_color": "#e07a5f",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

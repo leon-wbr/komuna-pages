@@ -1,0 +1,1 @@
+import{j as t,L as e,B as a}from"./index-L6oRnSjI.js";function i({title:n,children:s}){return t.jsxs("main",{className:"mx-auto max-w-2xl px-6 py-16 text-center",children:[t.jsx("h1",{className:"text-2xl font-bold",children:n}),s,t.jsx(e,{to:"/login",children:t.jsx(a,{className:"mt-6",children:"Sign in"})})]})}export{i as S};
